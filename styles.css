@@ -1,0 +1,60 @@
+body {
+    background-image:url(coffee\ beans.jpg) ;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.established {
+    font-style: italic;
+}
+h1, h2, p {
+    text-align: center;
+}
+.menu {
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+h1,h2 {
+    font-family: impact, sans-serif;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.flavour, .Desserts {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+hr {
+    background-color: brown;
+    border-color: brown;
+}
+img {
+    width:50px;
+    height:50px;
+    display: block;
+    margin: auto;
+}
+.img2 {
+    margin-bottom: 500px;
+}
+a {
+    color:brown;
+}
+a:visited {
+    color: gray;
+}
+a:active {
+    color: white;
+}
+a:hover {
+    color:black;
+}
